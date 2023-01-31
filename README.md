@@ -1,1 +1,1 @@
-SA-Factoring-Challenge
+RSA-Factoring-Challenge
